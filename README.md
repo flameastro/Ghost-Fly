@@ -39,7 +39,7 @@ Get-FileHash ".\Ghost Fly.exe" -Algorithm SHA256
 
 > **Ghost Fly** é um jogo feito com a *Godot Engine*. Você precisa controlar um pequeno fantasma que passa por diferentes cenários. Entre os cenários existentes estão **Grass Land**, **Winter Land** e **Tropic Land**.
 > Seu objetivo é chegar ao final desses cenários. Haverá vários obstáculos para superar, várias moedas para coletar e, no final, você deve alcançar a **coroa vermelha**, que é o objetivo do jogo. Depois disso, uma mensagem de **"END"** aparece e o programa é fechado automaticamente.
-> Os *recursos* (*assets*, *imagens* e *músicas*) deste jogo são completamente **gratuitos** e podem ser encontrados em lugares como [Kenney](https://kenney.nl/assets), [Itch](https://itch.io/game-assets/free), [Opengameart](https://opengameart.org/), [Craftpix](https://craftpix.net/) e outros.x
+> Os *recursos* (*assets*, *imagens* e *músicas*) deste jogo são completamente **gratuitos** e podem ser encontrados em lugares como [Kenney](https://kenney.nl/assets), [Itch](https://itch.io/game-assets/free), [Opengameart](https://opengameart.org/), [Craftpix](https://craftpix.net/) e outros.
 
 <img src="assets/start-ghost-fly.png" alt="Ghost Fly Game">
 
