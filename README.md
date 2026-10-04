@@ -1,7 +1,7 @@
 # Ghost Fly
 
 <div align=center>
-    <img width="90%" src="assets/banner.png" alt="Banner">
+    <img width="500" src="assets/start-ghost-fly.png" alt="Ghost Fly Game">
 </div>
 
 Ghost Fly is a game made with the *Godot Engine*. You need to control a little ghost that goes through different scenarios. Among the existing scenarios are **Grass Land**, **Winter Land**, and **Tropic Land**.
@@ -12,9 +12,7 @@ The *resources* (*assets*, *images* and *songs*) of this game is completely free
 
 The game is also available in [Itch.io](https://flameastro.itch.io/ghost-fly).
 
-<div align=center>
-    <img width="500" src="assets/start-ghost-fly.png" alt="Ghost Fly Game">
-</div>
+
 
 This game is a dream for me, and I've been planning it since 2023. That year, I knew nothing about programming, not even HTML; I'd never worked with anything like that before. But in late 2024 and early 2025, I started seriously studying programming, and soon after that, in July 2025, I created this game.
 
