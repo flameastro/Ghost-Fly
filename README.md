@@ -1,7 +1,7 @@
 # Ghost Fly
 
 <div align=center>
-    <img width="500" src="assets/start-ghost-fly.png" alt="Ghost Fly Game">
+    <img width="750" src="assets/start-ghost-fly.png" alt="Ghost Fly Game">
 </div>
 
 Ghost Fly is a game made with the *Godot Engine*. You need to control a little ghost that goes through different scenarios. Among the existing scenarios are **Grass Land**, **Winter Land**, and **Tropic Land**.
